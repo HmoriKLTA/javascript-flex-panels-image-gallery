@@ -42,11 +42,11 @@
       flex-direction: column;
     }
 
-    .panel1 { background-image:url(lib/tom-def-MfM3p2yn4Ew-unsplash.jpg); }
-    .panel2 { background-image:url(lib/sebastian-pociecha-bgJiSoC7kMM-unsplash.jpg); }
-    .panel3 { background-image:url(lib/max-kleinen-ugdKmhDg1m8-unsplash.jpg); }
-    .panel4 { background-image:url(lib/sofia-sforza-AEP4lyBafBs-unsplash.jpg); }
-    .panel5 { background-image:url(lib/jay-rembert-e0kgA5otj0Q-unsplash.jpg); }
+    .panel1 { background-image:url(lib/carles-rabada-TbJg-UB7mGs-unsplash.jpg); }
+    .panel2 { background-image:url(lib/jeremy-bishop-_CFv3bntQlQ-unsplash.jpg) }
+    .panel3 { background-image:url(lib/jeremy-bishop-pikyGuAmwpM-unsplash.jpg); }
+    .panel4 { background-image:url(lib/jeremy-bishop-zam3m6W2npM-unsplash.jpg); }
+    .panel5 { background-image:url(lib/mathieu-chirico-sFSZuKI2CvY-unsplash.jpg); }
 
     /* Flex Children */
     .panel > * {
@@ -69,6 +69,7 @@
       font-family: 'Amatic SC', cursive;
       text-shadow: 0 0 4px rgba(0, 0, 0, 0.72), 0 0 14px rgba(0, 0, 0, 0.45);
       font-size: 2em;
+
     }
 
     .panel p:nth-child(2) {
